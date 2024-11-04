@@ -97,7 +97,7 @@ jobs:
       - name: Notify on rollback
         if: steps.wait.outputs.status == 'FAILED'
         run: |
-          echo "Deployment failed. Rollback has been initiated. Please check ECS for further details."
+          echo "Deployment failed now. Rollback has been initiated. Please check ECS for further details."
   
   
       - name: Deploy Amazon ECS task definition
