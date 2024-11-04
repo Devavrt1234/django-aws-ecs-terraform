@@ -1,4 +1,4 @@
-name: Deploy to Amazon ECS Fargate
+name: Deploy node app to Amazon ECS Fargate
 
 on:
   push:
