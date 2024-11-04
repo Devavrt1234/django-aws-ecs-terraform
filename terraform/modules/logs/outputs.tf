@@ -5,3 +5,6 @@ output "log_group_arn" {
 output "log_stream_name" {
   value = aws_cloudwatch_log_stream.log_stream.name
 }
+output "log_stream_name-1" {
+  value = aws_cloudwatch_log_stream.log_stream.name
+}
