@@ -130,7 +130,7 @@ DATABASES = {
         'NAME':     'mydatabase',
         'USER':     'codewithmuh',
         'PASSWORD': 'admin123',
-        'HOST':     'production.cncik8g0a25i.us-west-1.rds.amazonaws.com',
+        'HOST':     'production.czuyq22wy6rw.eu-west-3.rds.amazonaws.com',
         'PORT':     '5432',
     }
 }
